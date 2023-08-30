@@ -1,0 +1,69 @@
+
+.nav{
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+.Menu{
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+}
+.anticon svg {
+    font-size: 25px;
+}
+.nav{
+    margin-top: 10px;
+}
+.Menu{
+    background-color: transparent ;
+}
+.lay {
+    font-size: 20px;
+    text-decoration: none;
+}
+
+ .contact{
+    background-image: url("../../public/img/fourth-section-bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+ .home{
+    background-image: url("../../public/img/fivth-section-bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.home h1{
+    background-image: url("../../public/img/first-section-bg.png");
+    text-align: center;
+    color: #fff;
+}
+.home p{
+    text-align: center;
+    color: #0000f0;
+    text-transform: capitalize;
+    font-size: 1.8em;
+    font-family: cursive;
+    padding: 10px;
+}
+/* .objet{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} */
+.tafita {
+    margin: 20px;
+    width: 400px;
+    background-color: #e6d7d75e;
+}
+.title{
+    position: absolute;
+    font-size: 2em;
+    color: #fff;
+    text-shadow: 0 0 100px #fff;
+    top: 35px;
+}
+.entete{
+    box-shadow: 0 0 15px #000;
+}
+
